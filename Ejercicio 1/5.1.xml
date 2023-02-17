@@ -41,34 +41,34 @@
         <autor>William Shakespeare</autor>
         <editor></editor>
         <isbn>978-1584503804 </isbn>
-        <precio>50.06</precio>
+        <precio>10.06</precio>
     </libro>
     <libro>
         <titulo>Los Pilares de la Tierra</titulo>
         <autor>Ken Follett</autor>
         <editor>Charles River Media</editor>
         <isbn>978-1584503804 </isbn>
+        <precio>20.06</precio>
+    </libro>
+    <libro>
+        <titulo>Metro 2033 </titulo>
+        <autor>Dmitri Glujovski </autor>
+        <editor>Tinum Mas Narrativa</editor>
+        <isbn>9782841725052</isbn>
         <precio>50.06</precio>
     </libro>
     <libro>
-        <titulo>Physics-based animation </titulo>
-        <autor>Kenny Erleben</autor>
-        <editor>Charles River Media</editor>
-        <isbn>978-1584503804 </isbn>
-        <precio>50.06</precio>
+        <titulo>Veinte mil leguas de viaje submarino</titulo>
+        <autor>Julio Verne</autor>
+        <editor>Hetzel</editor>
+        <isbn>9783707423471</isbn>
+        <precio>09.06</precio>
     </libro>
     <libro>
-        <titulo>Physics-based animation </titulo>
-        <autor>Kenny Erleben</autor>
-        <editor>Charles River Media</editor>
-        <isbn>978-1584503804 </isbn>
-        <precio>50.06</precio>
-    </libro>
-    <libro>
-        <titulo>Physics-based animation </titulo>
-        <autor>Kenny Erleben</autor>
-        <editor>Charles River Media</editor>
-        <isbn>978-1584503804 </isbn>
-        <precio>50.06</precio>
+        <titulo>El principito</titulo>
+        <autor>Antoine Saint-Exupery</autor>
+        <editor>Emecé Editores</editor>
+        <isbn>9788854172388</isbn>
+        <precio>07.06</precio>
     </libro>
 </libreria>
