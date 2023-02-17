@@ -71,4 +71,11 @@
         <isbn>9788854172388</isbn>
         <precio>07.06</precio>
     </libro>
+    <libro>
+        <titulo>Viaje al centro de la Tierra</titulo>
+        <autor>Julio Verne</autor>
+        <editor>Hetzel</editor>
+        <isbn>97888834472388</isbn>
+        <precio>14.06</precio>
+    </libro>
 </libreria>
