@@ -20,14 +20,14 @@
         <autor>Alberto Sánchez</autor>
         <editor>Dykinson</editor>
         <isbn>978-84-9849-703-8</isbn>
-        <precio> 12.00</precio>
+        <precio>12.00</precio>
     </libro>
     <libro>
         <titulo>El Quijote</titulo>
         <autor>Miguel de Cervantes</autor>
         <editor>Montaner y Simón Editores</editor>
         <isbn>9788481093353</isbn>
-        <precio>8.50</precio>
+        <precio>08.50</precio>
     </libro>
     <libro>
         <titulo>La tragicomedia de Calisto y Melibea</titulo>
