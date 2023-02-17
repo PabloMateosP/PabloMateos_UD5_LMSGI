@@ -10,24 +10,27 @@
             <th>Título</th>
             <th>Autor</th>
             <th>Precio</th>
+            <th>Paginas</th>
         </tr>
         <xsl:for-each select="libreria/libro">
         <tr>
             <xsl:choose>
-            <xsl:when test="precio &gt; 25" >
+            <xsl:when test="num_paginas &gt; 150" >
                 <tr>
-                    <td bdcolor="beige"><xsl:value-of select="isbn"/></td>
+                    <td bdcolor="red"><xsl:value-of select="isbn"/></td>
                     <td bgcolor="red"><xsl:value-of select="titulo"/></td>
                     <td bgcolor="red"><xsl:value-of select="autor"/></td>
                     <td bgcolor="red"><xsl:value-of select="precio"/></td>
+                    <td bgcolor="red"><xsl:value-of select="num_paginas"/></td>
                 </tr>
             </xsl:when>
-            <xsl:when test="precio &lt; 25" >
+            <xsl:when test="num_paginas &lt; 150" >
                 <tr>
                     <td bdcolor="green"><xsl:value-of select="isbn"/></td>
                     <td bgcolor="green"><xsl:value-of select="titulo"/></td>
                     <td bgcolor="green"><xsl:value-of select="autor"/></td>
                     <td bgcolor="green"><xsl:value-of select="precio"/></td>
+                    <td bgcolor="green"><xsl:value-of select="num_paginas"/></td>
                 </tr>
             </xsl:when>
         </xsl:choose>
