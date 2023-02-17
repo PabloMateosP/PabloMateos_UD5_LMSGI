@@ -92,4 +92,18 @@
         <isbn>978437472482438</isbn>
         <precio>12.50</precio>
     </libro>
+    <libro>
+        <titulo>Harry Potter Y La Ordén del Fénix</titulo>
+        <autor>Joanne Rowling</autor>
+        <editor>Bloomsbury</editor>
+        <isbn>993486372482438</isbn>
+        <precio>10.50</precio>
+    </libro>
+    <libro>
+        <titulo>Harry Potter Y La Cámara Secreta</titulo>
+        <autor>Joanne Rowling</autor>
+        <editor>Bloomsbury</editor>
+        <isbn>978492395482438</isbn>
+        <precio>60.50</precio>
+    </libro>
 </libreria>

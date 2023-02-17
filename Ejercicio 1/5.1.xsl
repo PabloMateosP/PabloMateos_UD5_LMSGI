@@ -12,14 +12,26 @@
             <th>Precio</th>
         </tr>
         <xsl:for-each select="libreria/libro">
-        <xsl:if test="precio &gt; 12.00">
         <tr>
-            <td><xsl:value-of select="isbn"/></td>
-            <td><xsl:value-of select="titulo"/></td>
-            <td><xsl:value-of select="autor"/></td>
-            <td><xsl:value-of select="precio"/></td>
-        </tr>
-        </xsl:if>
+            <xsl:choose>
+            <xsl:when test="precio &gt; 25" >
+                <tr>
+                    <td bdcolor="beige"><xsl:value-of select="isbn"/></td>
+                    <td bgcolor="red"><xsl:value-of select="titulo"/></td>
+                    <td bgcolor="red"><xsl:value-of select="autor"/></td>
+                    <td bgcolor="red"><xsl:value-of select="precio"/></td>
+                </tr>
+            </xsl:when>
+            <xsl:when test="precio &lt; 25" >
+                <tr>
+                    <td bdcolor="green"><xsl:value-of select="isbn"/></td>
+                    <td bgcolor="green"><xsl:value-of select="titulo"/></td>
+                    <td bgcolor="green"><xsl:value-of select="autor"/></td>
+                    <td bgcolor="green"><xsl:value-of select="precio"/></td>
+                </tr>
+            </xsl:when>
+        </xsl:choose>
+    </tr>
         </xsl:for-each>
     </table>
     </body>
