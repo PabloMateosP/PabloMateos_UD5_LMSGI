@@ -11,8 +11,8 @@
             <th>Autor</th>
             <th>Precio</th>
         </tr>
-        <xsl:for-each select="libreria/libro[autor='Agatha Christie'">
-        <xsl:if test="precio &gt; 10.00">
+        <xsl:for-each select="libreria/libro">
+        <xsl:if test="precio &gt; 12.00">
         <tr>
             <td><xsl:value-of select="isbn"/></td>
             <td><xsl:value-of select="titulo"/></td>
