@@ -78,4 +78,18 @@
         <isbn>97888834472388</isbn>
         <precio>14.06</precio>
     </libro>
+    <libro>
+        <titulo>Asesinato En El Orient Express</titulo>
+        <autor>Agatha Christie</autor>
+        <editor>Espasa</editor>
+        <isbn>947347238754823</isbn>
+        <precio>10.50</precio>
+    </libro>
+    <libro>
+        <titulo>Harry Potter Y La Piedra Filosofal</titulo>
+        <autor>Joanne Rowling</autor>
+        <editor>Bloomsbury</editor>
+        <isbn>978437472482438</isbn>
+        <precio>12.50</precio>
+    </libro>
 </libreria>
