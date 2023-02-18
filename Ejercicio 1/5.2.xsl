@@ -11,13 +11,15 @@
             <th>Autor</th>
             <th>Precio</th>
         </tr>
-        <xsl:for-each select="libreria/libro">
+        <xsl:for-each select="libreria/libro[autor!='Julio Verne']">
+        <xsl:sort select="precio" order="ascending"/>
         <tr>
             <td><xsl:value-of select="isbn"/></td>
             <td><xsl:value-of select="titulo"/></td>
             <td><xsl:value-of select="autor"/></td>
             <td><xsl:value-of select="precio"/></td>
         </tr>
+
         </xsl:for-each>
     </table>
     </body>

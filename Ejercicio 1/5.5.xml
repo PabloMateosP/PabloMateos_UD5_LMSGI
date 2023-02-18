@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet href="5.1.xsl" type="text/xsl"?>
+<?xml-stylesheet href="5.5.xsl" type="text/xsl"?>
 <libreria>
     <libro>
         <titulo>Physics-based animation </titulo>
@@ -7,6 +7,7 @@
         <editor>Charles River Media</editor>
         <isbn>978-1584503804 </isbn>
         <precio>50.06</precio>
+        <num_paginas>230</num_paginas>
     </libro>
     <libro>
         <titulo>Principios de seguridad informática para usuarios </titulo>
@@ -14,20 +15,23 @@
         <editor>Dykinson</editor>
         <isbn>978-84-9849-998-8</isbn>
         <precio>13.00</precio>
+        <num_paginas>110</num_paginas>
     </libro>
     <libro> 
         <titulo>Ejercicios complementarios de lógica diital</titulo>
         <autor>Alberto Sánchez</autor>
         <editor>Dykinson</editor>
         <isbn>978-84-9849-703-8</isbn>
-        <precio> 12.00</precio>
+        <precio>12.00</precio>
+        <num_paginas>120</num_paginas>
     </libro>
     <libro>
         <titulo>El Quijote</titulo>
         <autor>Miguel de Cervantes</autor>
         <editor>Montaner y Simón Editores</editor>
         <isbn>9788481093353</isbn>
-        <precio>8.50</precio>
+        <precio>08.50</precio>
+        <num_paginas>340</num_paginas>
     </libro>
     <libro>
         <titulo>La tragicomedia de Calisto y Melibea</titulo>
@@ -35,6 +39,7 @@
         <editor>Editorial Burgos</editor>
         <isbn>9780143106098</isbn>
         <precio>10.00</precio>
+        <num_paginas>260</num_paginas>
     </libro>
     <libro>
         <titulo>Romeo y Julieta</titulo>
@@ -42,6 +47,7 @@
         <editor></editor>
         <isbn>978-1584503804 </isbn>
         <precio>10.06</precio>
+        <num_paginas>250</num_paginas>
     </libro>
     <libro>
         <titulo>Los Pilares de la Tierra</titulo>
@@ -49,6 +55,7 @@
         <editor>Charles River Media</editor>
         <isbn>978-1584503804 </isbn>
         <precio>20.06</precio>
+        <num_paginas>550</num_paginas>
     </libro>
     <libro>
         <titulo>Metro 2033 </titulo>
@@ -56,6 +63,7 @@
         <editor>Tinum Mas Narrativa</editor>
         <isbn>9782841725052</isbn>
         <precio>50.06</precio>
+        <num_paginas>345</num_paginas>
     </libro>
     <libro>
         <titulo>Veinte mil leguas de viaje submarino</titulo>
@@ -63,6 +71,7 @@
         <editor>Hetzel</editor>
         <isbn>9783707423471</isbn>
         <precio>09.06</precio>
+        <num_paginas>360</num_paginas>
     </libro>
     <libro>
         <titulo>El principito</titulo>
@@ -70,5 +79,46 @@
         <editor>Emecé Editores</editor>
         <isbn>9788854172388</isbn>
         <precio>07.06</precio>
+        <num_paginas>230</num_paginas>
+    </libro>
+    <libro>
+        <titulo>Viaje al centro de la Tierra</titulo>
+        <autor>Julio Verne</autor>
+        <editor>Hetzel</editor>
+        <isbn>97888834472388</isbn>
+        <precio>14.06</precio>
+        <num_paginas>250</num_paginas>
+    </libro>
+    <libro>
+        <titulo>Asesinato En El Orient Express</titulo>
+        <autor>Agatha Christie</autor>
+        <editor>Espasa</editor>
+        <isbn>947347238754823</isbn>
+        <precio>10.50</precio>
+        <num_paginas>300</num_paginas>
+    </libro>
+    <libro>
+        <titulo>Harry Potter Y La Piedra Filosofal</titulo>
+        <autor>Joanne Rowling</autor>
+        <editor>Bloomsbury</editor>
+        <isbn>978437472482438</isbn>
+        <precio>12.50</precio>
+        <num_paginas>450</num_paginas>
+    </libro>
+    <libro>
+        <titulo>Harry Potter Y La Ordén del Fénix</titulo>
+        <autor>Joanne Rowling</autor>
+        <editor>Bloomsbury</editor>
+        <isbn>993486372482438</isbn>
+        <precio>10.50</precio>
+        <num_paginas>600</num_paginas>
+    </libro>
+    <libro>
+        <titulo>Harry Potter Y La Cámara Secreta</titulo>
+        <autor>Joanne Rowling</autor>
+        <editor>Bloomsbury</editor>
+        <isbn>978492395482438</isbn>
+        <precio>60.50</precio>
+        <num_paginas>640</num_paginas>
     </libro>
 </libreria>
