@@ -17,7 +17,7 @@
             <xsl:choose>
             <xsl:when test="num_paginas &gt; 150" >
                 <tr>
-                    <td bdcolor="red"><xsl:value-of select="isbn"/></td>
+                    <td bgcolor="red"><xsl:value-of select="isbn"/></td>
                     <td bgcolor="red"><xsl:value-of select="titulo"/></td>
                     <td bgcolor="red"><xsl:value-of select="autor"/></td>
                     <td bgcolor="red"><xsl:value-of select="precio"/></td>
@@ -26,7 +26,7 @@
             </xsl:when>
             <xsl:when test="num_paginas &lt; 150" >
                 <tr>
-                    <td bdcolor="green"><xsl:value-of select="isbn"/></td>
+                    <td bgcolor="green"><xsl:value-of select="isbn"/></td>
                     <td bgcolor="green"><xsl:value-of select="titulo"/></td>
                     <td bgcolor="green"><xsl:value-of select="autor"/></td>
                     <td bgcolor="green"><xsl:value-of select="precio"/></td>
