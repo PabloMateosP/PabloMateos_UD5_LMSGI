@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="cd_p4.xsl" type="text/xsl"?>
+<Cds>
+    <cd>
+        <titulo_album>Microdosis</titulo_album>
+        <artista>Mora</artista>
+        <canciones>
+            <cancion>
+                <titulo>LA INOCENTE</titulo>
+                <tiempo>3:23</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>TU AMIGO</titulo>
+                <tiempo>2:54</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>MEMORIAS</titulo>
+                <tiempo>3:49</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>PLAYA PRIVADA</titulo>
+                <tiempo>2:38</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>badtrip :(</titulo>
+                <tiempo>3:12</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>QSY</titulo>
+                <tiempo>3:40</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>PECADO</titulo>
+                <tiempo>2:52</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>ORO ROSADO</titulo>
+                <tiempo>2:35</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>LINDOR</titulo>
+                <tiempo>2:25</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>ROBERT DE NIRO</titulo>
+                <tiempo>2:55</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>LEJOS DE TI</titulo>
+                <tiempo>2:09</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>OJOS COLORAU</titulo>
+                <tiempo>3:42</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>2010</titulo>
+                <tiempo>2:52</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>ESCALOFRÍOS</titulo>
+                <tiempo>2:19</tiempo>
+            </cancion>
+        </canciones>
+        <selloD>Rimas Entertainment LLC</selloD>
+        <anhoP>2022</anhoP>
+    </cd>
+    <cd>
+        <titulo_album>Primer día de clases</titulo_album>
+        <artista>Mora</artista>
+        <canciones>
+            <cancion>
+                <titulo>En un Avion</titulo>
+                <tiempo>3:41</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Pégate (Remix)</titulo>
+                <tiempo>3:25</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Que Tu Dice?</titulo>
+                <tiempo>3:43</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Volando</titulo>
+                <tiempo>3:09</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Primer Dia de Clases</titulo>
+                <tiempo>2:27</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>La Carita</titulo>
+                <tiempo>3:12</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>512</titulo>
+                <tiempo>3:14</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>La Receta</titulo>
+                <tiempo>3:53</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Afuego</titulo>
+                <tiempo>3:13</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Te Conoci Perriando</titulo>
+                <tiempo>3:11</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Vacio</titulo>
+                <tiempo>3:29</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>No Digas Nada</titulo>
+                <tiempo>3:01</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Cuando Sera</titulo>
+                <tiempo>2:56</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Fin del Mundo</titulo>
+                <tiempo>3:41</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Desaparecer</titulo>
+                <tiempo>2:46</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Tuyo</titulo>
+                <tiempo>4:30</tiempo>
+            </cancion>
+        </canciones>
+        <selloD>Rimas Entertainment LLC</selloD>
+        <anhoP>2021</anhoP>
+    </cd>
+    <cd>
+        <titulo_album>TIRITITANDO</titulo_album>
+        <artista>Fernando Costa</artista>
+        <canciones>
+            <cancion>
+                <titulo>Shorty</titulo>
+                <tiempo>3:03</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Hasta Cuando</titulo>
+                <tiempo>3:20</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Bandolero</titulo>
+                <tiempo>3:20</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Nana</titulo>
+                <tiempo>4:56</tiempo>
+            </cancion>
+        </canciones>
+        <selloD>kns classical</selloD>
+        <anhoP>2022</anhoP>
+    </cd>
+    <cd>
+        <titulo_album>Paraíso</titulo_album>
+        <artista>Mora</artista>
+        <canciones>
+            <cancion>
+                <titulo>Modelito</titulo>
+                <tiempo>3:11</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Calentón</titulo>
+                <tiempo>3:23</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>COMO HAS ESTAU?</titulo>
+                <tiempo>2:08</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>EIVISSA</titulo>
+                <tiempo>3:21</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>MALAFAMA</titulo>
+                <tiempo>2:50</tiempo>
+            </cancion>
+        </canciones>
+        <selloD>Rimas Entertainment LLC</selloD>
+        <anhoP>2022</anhoP>
+    </cd>
+    <cd>
+        <titulo_album>YHLQMDLG</titulo_album>
+        <artista>Bad Bunny</artista>
+        <canciones>
+            <cancion>
+                <titulo>Safaera</titulo>
+                <tiempo>4:55</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>La Difícil</titulo>
+                <tiempo>2:43</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Si veo a tu mamá</titulo>
+                <tiempo>2:51</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>A tu merced</titulo>
+                <tiempo>2:56</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Vete</titulo>
+                <tiempo>3:12</tiempo>
+            </cancion>
+        </canciones>
+        <selloD>Rimas Entertainment LLC</selloD>
+        <anhoP>2020</anhoP>
+    </cd>
+    <cd>
+        <titulo_album>Un verano sin ti</titulo_album>
+        <artista>Bad Bunny</artista>
+        <canciones>
+            <cancion>
+                <titulo>Moscow Mule</titulo>
+                <tiempo>4:06</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Me porto Bonito</titulo>
+                <tiempo>2:59</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Tití me preguntó</titulo>
+                <tiempo>4:04</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Yo No Soy Celoso</titulo>
+                <tiempo>3:51</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Neverita</titulo>
+                <tiempo>2:54</tiempo>
+            </cancion>
+        </canciones>
+        <selloD>Rimas Music</selloD>
+        <anhoP>2022</anhoP>
+    </cd>
+    <cd>
+        <titulo_album>Romance de la luna tucumana</titulo_album>
+        <artista>Diego el Cigala</artista>
+        <canciones>
+            <cancion>
+                <titulo>Siempre París</titulo>
+                <tiempo>2:05</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Naranjo En Flor</titulo>
+                <tiempo>4:09</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Dejame Que Me Vaya</titulo>
+                <tiempo>3:00</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Los Mareados</titulo>
+                <tiempo>3:12</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Balderrama</titulo>
+                <tiempo>3:33</tiempo>
+            </cancion>
+        </canciones>
+        <selloD>18Chulos</selloD>
+        <anhoP>2013</anhoP>
+    </cd>
+    <cd>
+        <titulo_album>Estopa</titulo_album>
+        <artista>Estopa</artista>
+        <canciones>
+            <cancion>
+                <titulo>Estopa</titulo>
+                <tiempo>3:44</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Cacho a cacho</titulo>
+                <tiempo>2:40</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>La raja de tu falda</titulo>
+                <tiempo>3:32</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Como Camarón</titulo>
+                <tiempo>3:31</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>El del medio de los Chichos</titulo>
+                <tiempo>3:57</tiempo>
+            </cancion>
+        </canciones>
+        <selloD>Sony Music</selloD>
+        <anhoP>1999</anhoP>
+    </cd>
+    <cd>
+        <titulo_album>Destrangis</titulo_album>
+        <artista>Estopa</artista>
+        <canciones>
+            <cancion>
+                <titulo>Vino Tinto</titulo>
+                <tiempo>3:19</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Partiendo la pana</titulo>
+                <tiempo>4:00</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Destrangis in the Night</titulo>
+                <tiempo>3:28</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>El Blade</titulo>
+                <tiempo>3:12</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Nasio pa la alegria</titulo>
+                <tiempo>3:27</tiempo>
+            </cancion>
+        </canciones>
+        <selloD>Sony Music</selloD>
+        <anhoP>2001</anhoP>
+    </cd>
+</Cds>
