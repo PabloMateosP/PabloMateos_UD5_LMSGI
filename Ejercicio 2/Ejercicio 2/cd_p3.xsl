@@ -8,7 +8,7 @@
         </head>
     <body >
         <h1>Cds</h1>
-        <table>
+        <table border= "1">
             <tr bgcolor="green" id="cabeza">
                 <th>Titulo Álbum</th>
                 <th>Artista</th>

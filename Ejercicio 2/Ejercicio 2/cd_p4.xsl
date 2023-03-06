@@ -8,7 +8,7 @@
         </head>
     <body >
         <h1>Cds</h1>
-        <table>
+        <table border="1">
             <tr bgcolor="green" id="cabeza">
                 <th>Titulo Álbum</th>
                 <th>Artista</th>
@@ -16,7 +16,7 @@
                 <th>Sello Discográfico</th>
                 <th>Año Publicación</th>
             </tr>
-            <xsl:for-each select="Cds/cd/canciones/cancion[tiempo='2:40']">
+            <xsl:for-each select="Cds/cd">
                 <tr id= "texto">
                     <td><xsl:value-of select="titulo_album"/></td>
                     <td><xsl:value-of select="artista"/></td>
